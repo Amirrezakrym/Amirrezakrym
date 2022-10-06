@@ -1,4 +1,4 @@
-My name is Amirreza Krym
+My name is Amirreza
 ===============================
 
 junior == Developer
